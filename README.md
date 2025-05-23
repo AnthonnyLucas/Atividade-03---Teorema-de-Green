@@ -1,4 +1,5 @@
 Animação da Epicicloide com Controle de Velocidade
+
 Este código, desenvolvido em Python utilizando as bibliotecas NumPy e Matplotlib, tem como objetivo criar uma animação interativa da curva epicicloide, aplicada no contexto do Teorema de Green.
 
 A epicicloide é a trajetória de um ponto em uma circunferência menor que rola externamente sobre uma circunferência maior. A animação ilustra de forma clara como essa curva é formada, permitindo ao usuário observar a movimentação da circunferência menor, seu centro, e o ponto gerador da curva.
